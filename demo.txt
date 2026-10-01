@@ -16,3 +16,4 @@ feature A commit-2
 
 -bug- fixed
 upgrade ICD 2.0.0
+oprava stareho labelu
